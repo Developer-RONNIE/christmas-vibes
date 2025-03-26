@@ -1,5 +1,7 @@
 # Animated Christmas Website
-## [Watch it on youtube](https://youtu.be/b2vCPoJywBc)
+
+![preview img](/preview.png)
+
 ### Animated Christmas Website
 
 - Animated Christmas Website Using HTML CSS And JavaScript
@@ -8,6 +10,18 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+### 🚀 How to Use
 
-![preview img](/preview.png)
+1. Clone the repository:
+```bash
+git clone https://github.com/Developer-RONNIE/templeverse
+```   
+2. Open the index.html file in a browser.
+3. Enjoy the smooth animations and interactive design!
+
+### 📩 Contact & Support
+For any questions or improvements, feel free to reach out or open an issue in the repository.
+
+💙 Stay Connected for More!
+
+
